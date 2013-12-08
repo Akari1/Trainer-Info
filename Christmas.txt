@@ -1,10 +1,22 @@
 Created by [Meme]Powah!
-
+Notes: version 1
 
 <body style="background-color: qradialgradient(spread:pad, cx:.5, cy:2, radius:2, fx:.5, fy:.5, stop:.0 lightblue, stop:.1 green, stop:.15 red, stop:.4 green, stop:.9 red);">
   <center>
     <font size=6 color=gold=chiller>
       <b>
         Have a Merry Christmas! 
+        <br>
+        <img src='pokemon:225&shiny=.false'/>
+        
+        
+Created my [Meme]Powah!
+Notes: version 2
+
+<body style="background-color: qradialgradient(spread:pad, cx:.8, cy:8, radius:8, fx:.6, fy:.6, stop:.1 lightblue, stop:.0 green, stop:.15 red, stop:.5 white, stop:.8 red);">
+  <center>
+    <font size=6 color=gold=chiller>
+      <b>
+        Have a merry meme Christmas! 
         <br>
         <img src='pokemon:225&shiny=.false'/>
