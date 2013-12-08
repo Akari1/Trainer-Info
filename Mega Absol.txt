@@ -1,0 +1,11 @@
+Created by [Meme]Powah!
+Replace Akari with the text you want.
+You can choose the color of your text on the line that says font
+
+<body style="background-color: qradialgradient(spread:pad, cx:.5, cy:2, radius:2, fx:.5, fy:.5, stop:.0 lightblue, stop:.1 silver, stop:.15 black, stop:.4 silver, stop:.9 black);">
+  <center>
+    <font size=6 color=pink=chiller>
+      <b>
+        Akari 
+        <br>
+        <img src='pokemon:359-1&shiny=.false'/>
