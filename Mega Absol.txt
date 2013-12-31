@@ -6,6 +6,6 @@ You can choose the color of your text on the line that says font
   <center>
     <font size=6 color=pink=chiller>
       <b>
-        Akari 
+         [NAME HERE]
         <br>
         <img src='pokemon:359-1&shiny=.false'/>
